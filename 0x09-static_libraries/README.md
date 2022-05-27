@@ -1,4 +1,4 @@
-File libholberton.a is a static library.
+File libmy.a is a static library.
 
 File libmy.a.sh is a script that creates a static library called libmy.a from all the .c files that are in the current directory.
 
